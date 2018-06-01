@@ -1,0 +1,64 @@
+body{
+	    background-color: #c39653;
+}
+.contaner{
+	height: 1000px;
+    width: 1100px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #b3ab66;
+}
+.header{
+	width: 100%;
+    height: 7%;
+    overflow: hidden;
+    background-color: #9e8989;
+}
+.logo{
+	height: 100%;
+    width: 25%;
+    float: left;
+    background-color: #2a1b44b3;
+}
+.menu{
+	height: 100%;
+    width: 75%;
+    background-color: #257f77;
+    float: left;
+}
+.banner{
+	    width: 100%;
+    height: 25%;
+    overflow: hidden;
+    background-color: #a9b52e;
+}
+.contant{
+	width: 100%;
+    height: 60%;
+    overflow: hidden;
+    background-color: #a29b5d;
+}
+.part-one{
+	height: 100%;
+    width: 33.33%;
+    float: left;
+    background-color: #7f2222;
+}
+.part-two{
+	height: 100%;
+    width: 33.33%;
+    float: left;
+    background-color: #7b0707;
+}
+.part-three{
+	height: 100%;
+    width: 33.33%;
+    float: left;
+    background-color: #6b2626;
+}
+.footer{
+	width: 100%;
+    height: 8%;
+    overflow: hidden;
+    background-color: #000000a8;
+}
